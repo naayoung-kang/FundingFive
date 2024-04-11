@@ -47,7 +47,7 @@
           강나영
         </a><br>
         <center>로그인 / 회원가입</center><br>
-        <center>마이페이</center><br>
+        <center>마이페이지</center><br>
         <center>웹퍼블리싱</center><br>
       </td>
       <td align="center" width="400px">
