@@ -1,5 +1,5 @@
 # [Funding Five] 세미 프로젝트(23년 11월 ~ 23년 12월)
-<center><img width="100%" src="(https://github.com/naayoung-kang/FundingFive/assets/146931584/e830556b-d1da-435a-ade7-43b1eafe9607)"></center>
+<center><img width="100%" src="[https://github.com/naayoung-kang/FundingFive/assets/146931584/e830556b-d1da-435a-ade7-43b1eafe9607]"></center>
 <br/><br/>
 
 ## 프로젝트 소개
